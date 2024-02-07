@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Halo. I am (hopefully) an incoming PhD student in linguistics. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
+THIS SITE IS STILL UNDER CONSTRUCTION. Halo. I am (hopefully) an incoming PhD student in linguistics. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
