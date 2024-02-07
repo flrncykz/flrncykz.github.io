@@ -11,6 +11,7 @@ nav_order: 1
 <body>
   <div class="column">
   	<img src="../assets/img/syntax_pic.jpg" alt="Image description" float="left" width="25%" height="25%">
+    shot in a Syntax II session, 10 Washington Pl, New York
   </div>
   <div class="column">
     I had been passionate about language(s) since young, but I did not know much about linguistics as a serious science until I took Syntax I (with Stephanie Harves) in my junior year, a course that so enchantingly changed my ways of looking at language(s). I then decided to reoreient my academic pursuit to becoming a lingusit.
