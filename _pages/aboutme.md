@@ -12,8 +12,9 @@ nav_order: 1
 
 <tr>
 <td>	
-<img src="../assets/img/syntax_pic.jpg" alt="Image description" float="left" width="25%" height="25%">
-    shot in a Syntax II session, 10 Washington Pl, New York
+<img src="../assets/img/syntax_pic.jpg" alt="Image description" width="25%" height="25%">
+
+<p>shot in a Syntax II session, 10 Washington Pl, New York</p>
 </td>
 
 <td>
