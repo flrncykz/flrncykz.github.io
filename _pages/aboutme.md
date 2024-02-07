@@ -7,7 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<img style="float: right;" src="syntax_pic.jpg">
 
 I had been passionate about language(s) since young, but I did not know much about linguistics as a serious science until I took Syntax I (with Stephanie Harves) in my junior year, a course that so enchantingly changed my ways of looking at language(s). I then decided to reoreient my academic pursuit to becoming a lingusit.
 
