@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 彰宇琨, 장우곤.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Halo. I am (hopefully) an incoming PhD student in linguistics. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
