@@ -7,6 +7,7 @@ nav: true
 nav_order: 1
 ---
 
+![syntax_pic](https://github.com/flrncykz/flrncykz.github.io/assets/132750368/3ea2fbe1-3e28-45bd-9a63-6f3a1cabcd7f)
 
 I had been passionate about language(s) since young, but I did not know much about linguistics as a serious science until I took Syntax I (with Stephanie Harves) in my junior year, a course that so enchantingly changed my ways of looking at language(s). I then decided to reoreient my academic pursuit to becoming a lingusit.
 
