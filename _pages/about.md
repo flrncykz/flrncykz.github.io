@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: 彰宇琨 /t͡saŋ˥ y˨˩ kʰwən˥/, 장우곤.
+subtitle: 彰宇琨 /ʧaŋ˥ y˨˩ kʰwən˥/, 장우곤.
 
 profile:
   align: right
