@@ -14,3 +14,7 @@ In my spare time, I like also to read 📖, watch films 🎬, do exercise 🏋�
   
 
 
+
+<img src="../assets/img/syntax_pic.jpg" alt="Image description">
+  
+shot in a Syntax II session, 10 Washington Pl, New York
