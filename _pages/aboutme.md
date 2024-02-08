@@ -4,7 +4,7 @@ permalink: /aboutme/
 title: about me
 description:
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 <p align="justify">
