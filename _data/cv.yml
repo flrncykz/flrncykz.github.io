@@ -1,3 +1,13 @@
+- title: Test Test
+  type: map
+  contents:
+    - name: Full Name
+      value: 
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
+
 - title: Academic Interests
   type: nested_list
   contents:
