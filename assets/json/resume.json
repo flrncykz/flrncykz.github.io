@@ -161,16 +161,19 @@
     }
   ],
   "interests": [
-    {
-      "name": "Physics",
+     {
+      "name": "Negation",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Expletive Negation",
+      ]
+    },
+    {
+      "name": "Honorifics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Korean Honorifics",
+        "Mandarin Honorifics"
       ]
     }
   ],
