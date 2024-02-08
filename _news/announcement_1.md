@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I collaborated with graphic designer [Makoto Zhang] (https://zcmko.com) on a zine he made, <em>Reverse Waterfall</em>.
