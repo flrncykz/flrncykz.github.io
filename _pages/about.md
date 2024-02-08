@@ -1,4 +1,4 @@
-<img width="986" alt="image" src="https://github.com/flrncykz/flrncykz.github.io/assets/132750368/ed2291d2-b3db-44e3-bb0d-081a8db9968a">---
+---
 layout: about
 title: home
 permalink: /
