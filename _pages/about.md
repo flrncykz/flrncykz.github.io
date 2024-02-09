@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-THIS SITE IS STILL UNDER CONSTRUCTION.
+<p style="border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">THIS SITE IS STILL UNDER CONSTRUCTION.</p>
 <p align="justify">
   Halo 👋🏻. I am an incoming PhD student in linguistics at [not determined yet]. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
 </p>
