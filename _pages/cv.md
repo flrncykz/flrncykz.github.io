@@ -7,5 +7,5 @@ nav_order: 2
 cv_pdf: FlorenceYukunZhang_cv.pdf
 description: 
 toc:
-  sidebar: left
+  sidebar:
 ---
