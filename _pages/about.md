@@ -21,5 +21,5 @@ social: true # includes social icons at the bottom of the page
 
 <p text-decoration:underline>THIS SITE IS STILL UNDER CONSTRUCTION.</p>
 <p align="justify">
-  Halo 👋🏻. I am an incoming PhD student in linguistics at [not determined yet]. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
+  Halo 👋🏻. I am an incoming PhD student in linguistics. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
 </p>
