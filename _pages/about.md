@@ -5,6 +5,7 @@ permalink: /
 subtitle: 
   <p>彰宇琨 /ʧaŋ˥ y˨˩ kʰwən˥/, 장우곤.</p>
   <p>It/Its. 它/他</p>
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -19,7 +20,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 THIS SITE IS STILL UNDER CONSTRUCTION.
-
 <p align="justify">
   Halo 👋🏻. I am an incoming PhD student in linguistics at [not determined yet]. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
 </p>
