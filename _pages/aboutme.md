@@ -16,7 +16,7 @@ nav_order: 3
 
 
 <div>
-  {% include figure.liquid path="../assets/img/syntax_pic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}  # <img src="../assets/img/syntax_pic.jpg" alt="Image description">
+  {% include figure.liquid path="../assets/img/syntax_pic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   <div class="description">
     shot in a Syntax II session
   </div>
