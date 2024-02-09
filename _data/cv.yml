@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: 
+      value: FYZ
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
@@ -12,8 +12,5 @@
   type: nested_list
   contents:
     - title: 🈲️Negation.
-      items:
     - title: 🫡Honorifics.
-      items:
     - title: 🚫Antihomophony.
-      items:
