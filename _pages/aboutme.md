@@ -14,8 +14,9 @@ nav_order: 3
   In my spare time, I like also to watch films/series 🎬, do exercise 🏋🏻‍♂️, citywalk 🚶🏻 and enjoy alcohol 🍺. I write occasionally some poetry, which I will share with you if you are curious.
 </p>
 
+
 <div>
-  <img src="../assets/img/syntax_pic.jpg" alt="Image description">
+  {% include figure.liquid path="../assets/img/syntax_pic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}  # <img src="../assets/img/syntax_pic.jpg" alt="Image description">
   <div class="description">
     shot in a Syntax II session
   </div>
