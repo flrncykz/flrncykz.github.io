@@ -5,9 +5,6 @@ permalink: /
 subtitle: 
   <p>彰宇琨 /ʧaŋ˥ y˨˩ kʰwən˥/, 장우곤.</p>
   <p>It/Its. 它/他</p>
-  <p style="border-width:3px; border-style:solid; border-color:#FFFFF; padding: 1em;">
-    THIS SITE IS STILL UNDER CONSTRUCTION.
-  </p>
 
 profile:
   align: right
@@ -22,6 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+THIS SITE IS STILL UNDER CONSTRUCTION.
 <p align="justify">
   Halo 👋🏻. I am an incoming PhD student in linguistics. I focus mainly on syntax, phonology, semantics and their interfaces. Languages that I am interested in include Koreanic, Tungusic, Sinitic and Khosian.
 </p>
