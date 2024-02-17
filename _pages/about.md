@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: 
+subtitle: >
   <p>彰宇琨 /ʧaŋ˥ y˨˩ kʰwən˥/, 장우곤.</p>
   <p>It/Its. 它/他</p>
 
