@@ -1,6 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+<link rel="apple-touch-icon" type="image/png" sizes="60x60" href="assets/img/favicon_sakura.png">
 
 title: Florence Yukun Zhang # the website title (if blank, full name will be used instead)
 first_name: Florence
