@@ -5,5 +5,5 @@ title: cv
 nav: true
 nav_order: 2
 cv_pdf: FlorenceYukunZhang_cv.pdf
-description: Florence Yukun Zhang cv
+description: 📃
 ---
