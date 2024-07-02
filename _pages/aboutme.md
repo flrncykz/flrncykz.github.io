@@ -8,11 +8,11 @@ nav_order: 3
 ---
 
 <p align="justify">
-  I had been passionate about language(s) since very young, but I did not know much about linguistics as a serious science until I took Grammatical Analysis (with Stephanie Harves) in my junior year, a course that engrossingly changed my ways of viewing language(s). I then decided to orient my academic pursuit toward becoming a linguist.
+  I had been passionate about language(s) since very young, but I did not know much about linguistics as a serious science until I took Grammatical Analysis in my junior year, a course that engrossingly changed my ways of viewing language(s). I then decided to orient my academic pursuit toward becoming a linguist.
 </p>
 
 <p align="justify">
-  In my spare time, I like also to watch films/series 🎬, do exercise 🏋🏻‍♂️, citywalk 🚶🏻 and enjoy alcohol 🍺. I write occasionally some poetry, which I will share with you if you are curious.
+  In my spare time, I like also to watch films/series 🎬, citywalk 🚶🏻 and enjoy alcohol 🍺.
 </p>
 
 <div>
