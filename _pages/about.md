@@ -22,5 +22,5 @@ social: true # includes social icons at the bottom of the page
 THIS SITE IS STILL UNDER CONSTRUCTION.
 
 <p align="justify">
-  Halo 👋🏻. I am an incoming PhD student in linguistics. I am interested in syntax, phonology, semantics and their interfaces. I am very interested in Koreanic languages.
+  Halo 👋🏻. I am a first-year PhD student in linguistics at Yale. I am interested in syntax, phonology, semantics and their interfaces. I am especially interested in Koreanic languages.
 </p>
