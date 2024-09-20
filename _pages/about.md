@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>currently in Shanghai</p>
@@ -18,8 +18,6 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-THIS SITE IS STILL UNDER CONSTRUCTION.
 
 <p align="justify">
   Halo 👋🏻. I am a first-year PhD student in linguistics at Yale. I am interested in syntax, phonology, semantics and their interfaces. I am especially interested in Koreanic languages.
