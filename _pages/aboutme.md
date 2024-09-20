@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <p align="justify">
-  I had been passionate about language(s) since very young, but I did not know much about linguistics as a serious science until I took Grammatical Analysis in my junior year, a course that engrossingly changed my ways of viewing language(s). I then decided to orient my academic pursuit toward becoming a linguist.
+  I had been passionate about language(s) since very young, but I did not know much about linguistics as a serious science until I took Grammatical Analysis at NYU, a course that engrossingly changed my ways of viewing language(s). I then decided to orient my academic pursuit toward becoming a linguist.
 </p>
 
 <p align="justify">
