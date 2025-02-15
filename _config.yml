@@ -4,7 +4,7 @@
 
 title: Florence Zhang-Yukun # the website title (if blank, full name will be used instead)
 first_name: Florence
-middle_name: 
+middle_name: {}
 last_name: Zhang-Yukun
 email: florence.zhang@yale.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
