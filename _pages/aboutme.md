@@ -18,6 +18,6 @@ nav_order: 3
 <div>
   {% include figure.liquid path="../assets/img/syntax_pic.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   <div class="description">
-    shot during a Syntax II session
+    a Syntax session
   </div>
 </div>
