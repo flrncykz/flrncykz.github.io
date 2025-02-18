@@ -1,5 +1,5 @@
 name: 🐛 Report a bug
-description: Any errors.
+description: Any errors
 labels: ["needs triage", "bug"]
 body:
   - type: markdown
