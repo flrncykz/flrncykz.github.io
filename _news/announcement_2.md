@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Linmin Zhang](https://sites.google.com/site/zhanglinmin/)'s and my manuscript on <em>Comparatives</em> is now on [LingBuzz](https://lingbuzz.net/008122).
+[Linmin Zhang](https://sites.google.com/site/zhanglinmin/)'s and my manuscript [<em>Comparative Morphemes are Additive Particles: English -er/more vs. Chinese gèng</em>](https://lingbuzz.net/008122) is now on LingBuzz
